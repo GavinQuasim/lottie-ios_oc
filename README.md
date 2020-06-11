@@ -1,2 +1,2 @@
-# lottie-ios_Oc
-lottie-ios oc版本代码库存，很多人都说找不到这个版本的了 我就传一份保存了
+# lottie-ios_oc
+lottie-ios oc版本代码库存，保存一份2.5.3版本
